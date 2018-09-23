@@ -22,5 +22,5 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
- "proxy": "http://192.168.43.56/" 
+  "proxy": "https://nsmspace.herokuapp.com/"
 }
